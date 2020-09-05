@@ -1,8 +1,8 @@
 # 10 Projects of florinpop
 
-<img src="countdown-timer/snow.jpg">
-1. Countdown Timer
 
+1. Countdown Timer
+<img src="quizapp.gif">
 -   Design: https://uidesigndaily.com/posts/sketch-countdown-timer-day-876
 -   future date
 -   timer
