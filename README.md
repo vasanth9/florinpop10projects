@@ -2,13 +2,13 @@
 
 
 1. Countdown Timer
-<img src="quizapp.gif">
+
 -   Design: https://uidesigndaily.com/posts/sketch-countdown-timer-day-876
 -   future date
 -   timer
 -   codepen:https://codepen.io/vasanth9/full/xxVPzRo
 2. Quiz App
-
+<img src="quizapp.gif">
 -   Design: https://uidesigndaily.com/posts/sketch-questionnaire-choice-submit-day-924
 -   questions from obj
 -   select answer
